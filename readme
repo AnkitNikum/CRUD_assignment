@@ -1,0 +1,8 @@
+NLP TF-IDF technique 
+
+The Code utilizes a news data sample for text analysis. It calculates the tf-idf score for the content and title of every data sample. Then it utilizes Matching score technique to relate a query with similar data sample. This is also acheived using cosine similarity.
+
+The alpha value for weightage is assumed 0.7 giving more weightage to content then title.
+
+The Train and test split ratio is 0.8
+
