@@ -6,3 +6,4 @@ The alpha value for weightage is assumed 0.7 giving more weightage to content th
 
 The Train and test split ratio is 0.8
 
+Inspiration for preprocessing data is taken from Krish Naik Youtube videos and similarity application is inspired from toward data science material
